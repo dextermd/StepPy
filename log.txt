@@ -1,0 +1,2 @@
+Called function say_hello with argumnents: ('Bounjur',), {} 
+Called function multiply with argumnents: (10, 2), {} 
